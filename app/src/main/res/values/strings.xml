@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="Titulo">Proyecto Final</string>
+    <string name="Titulo1">Seleccione un registro</string>
+    <string name="Titulo2">Ingrese sus datos</string>
+    <string name="Titulo3">Modifique los valores</string>
+    <string name="Titulo4">Se eliminaran los siguientes valores</string>
+    <string name="TxtNombre">Ingrese un nombre</string>
+    <string name="TxtEdad">Ingrese una edad</string>
+    <string name="TxtCorreo">Ingrese un correo</string>
+    <string name="BtnListar">Ver registros</string>
+    <string name="BtnInsertar">Ingresar un registro</string>
+    <string name="BtnEditar">Editar un registro</string>
+    <string name="BtnEliminar">Eliminar un registro</string>
+    <string name="BtnSalir">Salir</string>
+    <string name="BtnConfirmar">Confirmar</string>
+    <string name="BtnCancelar">Cancelar</string>
+    <string name="TESOEM">Tecnologico de Estudios Superiores del Oriente del Estado de Mexico</string>
+    <string name="Correo">tesoem@tesoem.edu.mx</string>
+    <string name="Autor">Elaborado por: Garcia Rivera Brandon Daniel</string>
+
+</resources>
